@@ -10,9 +10,12 @@ However, I have also taken into consideration other aspects in the field of comp
 
 Check out my projects below! You never know if you'll like it until you've tried it.
 
-# Projects
+# Game Projects
 
-
+- ["Project Unity" (placeholder title)](https://github.com/FlamingHerb/Project-Unity)
+- [-repent loci- useless apologies of a troublesome witch](https://rpgmaker.net/games/11600/)
+- [Sa Ilalim ng Gabi](https://rpgmaker.net/games/11118/)
+- [The Swallow's Descent](https://rpgmaker.net/games/9160/)
 
 <!--
 **FlamingHerb/FlamingHerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
