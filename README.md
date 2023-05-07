@@ -17,6 +17,12 @@ Check out my projects below! You never know if you'll like it until you've tried
 - [Sa Ilalim ng Gabi](https://rpgmaker.net/games/11118/)
 - [The Swallow's Descent](https://rpgmaker.net/games/9160/)
 
+# Statistics
+
+[![Vaccaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamingherb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flamingherb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **FlamingHerb/FlamingHerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
