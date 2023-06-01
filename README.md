@@ -12,7 +12,7 @@ Check out my projects below! You never know if you'll like it until you've tried
 
 # Game Projects
 
-- ["Project Unity" (placeholder title)](https://github.com/FlamingHerb/Project-Unity)
+- ["Private Eye"](https://github.com/FlamingHerb/Project-Unity)
 - [-repent loci- useless apologies of a troublesome witch](https://rpgmaker.net/games/11600/)
 - [Sa Ilalim ng Gabi](https://rpgmaker.net/games/11118/)
 - [The Swallow's Descent](https://rpgmaker.net/games/9160/)
