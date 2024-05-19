@@ -19,8 +19,8 @@ Check out my projects below! You never know if you'll like it until you've tried
 
 # Game Projects
 
-- [Project Privacy](https://github.com/TheRedSwaRM/Daily-Digital-Privacy-Game) (Currently WIP)
 - ['Sweet Evil Fantasy'](https://github.com/FlamingHerb/SEF-Tracker) (currently WIP)
+- [Project Privacy](https://github.com/TheRedSwaRM/Daily-Digital-Privacy-Game)
 - ["Private Eye"](https://github.com/FlamingHerb/Project-Unity)
 - [-repent loci- useless apologies of a troublesome witch](https://rpgmaker.net/games/11600/)
 - [Sa Ilalim ng Gabi](https://rpgmaker.net/games/11118/)
