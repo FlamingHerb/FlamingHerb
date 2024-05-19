@@ -16,9 +16,7 @@ However, I have also taken into consideration other aspects in the field of comp
 Check out my projects below! You never know if you'll like it until you've tried it.
 -->
 
-# Projects
-
-## Games
+# Games
 - ['Sweet Evil Fantasy'](https://github.com/FlamingHerb/SEF-Tracker) (currently WIP)
 - [Project Privacy](https://github.com/TheRedSwaRM/Daily-Digital-Privacy-Game)
 - ["Private Eye"](https://github.com/FlamingHerb/Project-Unity)
@@ -26,10 +24,10 @@ Check out my projects below! You never know if you'll like it until you've tried
 - [Sa Ilalim ng Gabi](https://rpgmaker.net/games/11118/)
 - [The Swallow's Descent](https://rpgmaker.net/games/9160/)
 
-## Web App
+# Web App
 - [Filipino Student Employability Predictor](https://github.com/TheRedSwaRM/CS180-Project-Filipino-Student-Employability-Predictor)
 
-## Miscellanous
+# Miscellanous Projects
 - [Multithreaded GREP Runner](https://github.com/FlamingHerb/Multithreaded-GREP-Runner)
 
 # Languages
