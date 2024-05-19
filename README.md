@@ -33,11 +33,24 @@ Check out my projects below! You never know if you'll like it until you've tried
 ## Miscellanous
 - [Multithreaded GREP Runner](https://github.com/FlamingHerb/Multithreaded-GREP-Runner)
 
-# Statistics
+# Languages
 
+<!--
 [![Vaccaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamingherb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flamingherb&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />   
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+
 
 <!--
 **FlamingHerb/FlamingHerb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
