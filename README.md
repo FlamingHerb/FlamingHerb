@@ -30,6 +30,9 @@ Check out my projects below! You never know if you'll like it until you've tried
 ## Web App
 - [Filipino Student Employability Predictor](https://github.com/TheRedSwaRM/CS180-Project-Filipino-Student-Employability-Predictor)
 
+## Miscellanous
+- [Multithreaded GREP Runner](https://github.com/FlamingHerb/Multithreaded-GREP-Runner)
+
 # Statistics
 
 [![Vaccaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamingherb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
