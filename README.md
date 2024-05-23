@@ -30,7 +30,7 @@ Check out my projects below! You never know if you'll like it until you've tried
 # Miscellanous Projects
 - [Multithreaded GREP Runner](https://github.com/FlamingHerb/Multithreaded-GREP-Runner)
 
-# Knowledge
+# Tech Stack
 
 <!--
 [![Vaccaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamingherb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
