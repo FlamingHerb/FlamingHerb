@@ -6,6 +6,8 @@
 - Currently interested in UI/UX and backend systems, as well as computer security in general. Also a game developer if you haven't noticed.
 
 # Games
+- [Lost Voyager: Asteroid Destroyer](https://flamingherb.github.io/develup-chapter-2-quest/)
+- [Ano po yun? yung... Sinig... ang?](https://flamingherb.github.io/develup-chapter-1-quest/)
 - ['Sweet Evil Fantasy'](https://github.com/FlamingHerb/SEF-Tracker) (currently WIP)
 - [Project Privacy](https://github.com/TheRedSwaRM/Daily-Digital-Privacy-Game)
 - ["Private Eye"](https://github.com/FlamingHerb/Project-Unity)
