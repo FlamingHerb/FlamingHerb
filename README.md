@@ -8,7 +8,7 @@
 # Games
 - [Lost Voyager: Asteroid Destroyer](https://flamingherb.github.io/develup-chapter-2-quest/)
 - [Ano po yun? yung... Sinig... ang?](https://flamingherb.github.io/develup-chapter-1-quest/)
-- ['Sweet Evil Fantasy'](https://github.com/FlamingHerb/SEF-Tracker) (currently WIP)
+- ['Sweet Evil Fantasy'](https://github.com/FlamingHerb/SEF-Tracker) (WIP)
 - [Project Privacy](https://github.com/TheRedSwaRM/Daily-Digital-Privacy-Game)
 - ["Private Eye"](https://github.com/FlamingHerb/Project-Unity)
 - [-repent loci- useless apologies of a troublesome witch](https://rpgmaker.net/games/11600/)
@@ -21,6 +21,7 @@
 
 # Miscellanous Projects
 - [Multithreaded GREP Runner](https://github.com/FlamingHerb/Multithreaded-GREP-Runner)
+- [Dev8 Community Website](https://github.com/dev8community/dev8community.github.io) (WIP)
 
 # Tech Stack
 
