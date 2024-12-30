@@ -16,6 +16,7 @@
 - [The Swallow's Descent](https://rpgmaker.net/games/9160/)
 
 # Web App
+- [SocketSens](https://socketsens.vercel.app/)
 - [Filipino Student Employability Predictor](https://github.com/TheRedSwaRM/CS180-Project-Filipino-Student-Employability-Predictor)
 
 # Miscellanous Projects
