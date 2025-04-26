@@ -7,6 +7,7 @@
 
 # Games
 - [Miles of Memories](https://aljowo.itch.io/ph-road-trip)
+- [Peek-A-Boo (Red Velvet Fangame)](https://vaccaria.itch.io/peek-a-boo)
 - [Lost Voyager: Asteroid Destroyer](https://flamingherb.github.io/develup-chapter-2-quest/)
 - [Ano po yun? yung... Sinig... ang?](https://flamingherb.github.io/develup-chapter-1-quest/)
 - ['Sweet Evil Fantasy'](https://github.com/FlamingHerb/SEF-Tracker) (WIP)
