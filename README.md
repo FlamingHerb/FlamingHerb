@@ -2,7 +2,7 @@
 > Make the game you want to see in this world.
 > 
 - Commonly referred to as Vaccaria. Or Vacc. Or Omi.
-- Currently a 5th year student in BS in Computer Science in the [University of the Philippines — Diliman](https://up.edu.ph/).
+- Currently a 5th year student in BS in Computer Science in the [University of the Philippines — Diliman](https://up.edu.ph/). **Soon to graduate!**
 - Currently interested in UI/UX and backend systems, as well as computer security in general. Also a game developer if you haven't noticed.
 
 # Games
