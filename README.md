@@ -24,6 +24,7 @@
 
 # Miscellanous Projects
 - [Multithreaded GREP Runner](https://github.com/FlamingHerb/Multithreaded-GREP-Runner)
+- [Cycles of Pain (Arts 1 Project)](https://cycle-of-pain.vercel.app/)
 - [Dev8 Community Website](https://github.com/dev8community/dev8community.github.io) (WIP)
 
 # Tech Stack
