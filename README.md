@@ -3,7 +3,7 @@
 > 
 - Commonly referred to as Vaccaria. Or Vacc. Or Omi.
 - Recently graduated from the [University of the Philippines — Diliman](https://up.edu.ph/) with a Bachelor of Science in Computer Science.
-- ["Consultant for a Fan Project Discord Server"](https://github.com/Elysium-Delivery-Services/) - D
+- ["Consultant for a Fan Project Discord Server"](https://github.com/Elysium-Delivery-Services/) - Mx. D********
 - Currently interested in UI/UX and backend systems, as well as computer security in general. Also a game developer if you haven't noticed.
 
 # Games
