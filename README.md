@@ -7,6 +7,7 @@
 - Currently interested in UI/UX and backend systems, as well as computer security in general. Also a game developer if you haven't noticed.
 
 # Games
+- [Memento Solis](https://octavios-concert-hall.itch.io/memento-solis)
 - [Watermarked](https://aljowo.itch.io/watermarked)
 - [Peek-A-Boo (Red Velvet Fangame)](https://vaccaria.itch.io/peek-a-boo)
 - [Lost Voyager: Asteroid Destroyer](https://flamingherb.github.io/develup-chapter-2-quest/)
